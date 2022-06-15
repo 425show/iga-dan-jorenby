@@ -1,7 +1,7 @@
 # Azure Active Directory Identity Governance
 ## End-to-End Customer Technical Demonstration
 <ins>High level overview</ins>:
-- Supplemental code for the 6 part video series on how to automate Identity Governance within Azure Active Directory using PowerShell, Azure Automation, Hybrid Runbook Workers, and Logic Apps. Special guest: Dan Jorenby from Microsoft.
+- Supplemental code for the 6 part video series on how to automate Identity Governance with Azure Active Directory using PowerShell, Azure Automation, Hybrid Runbook Workers, and Logic Apps. Special guest: Dan Jorenby from Microsoft.
 
 <ins>Recording format</ins>:
 - 425Show, pre-recorded YouTube
