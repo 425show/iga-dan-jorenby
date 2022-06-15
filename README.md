@@ -14,21 +14,21 @@ Videos:
 - Video 6 - 
 
 Contact:
-425Show@microsoft.com
-https://425show.com
-
+<br>425Show@microsoft.com
+<br>https://425show.com
+<br><br>
 Guest:
-Dan Jorenby
-Area Solution Architect - Microsoft
-https://www.linkedin.com/in/dan-jorenby-6023b88/
-
+<br>Dan Jorenby
+<br>Area Solution Architect - Microsoft
+<br>https://www.linkedin.com/in/dan-jorenby-6023b88/
+<br><br>
 Hosts:
-Shannon Kuehn
-Senior Program Manager - Microsoft
-@shankuehn
-https://www.linkedin.com/in/shannonkuehn/
-
+<br>Shannon Kuehn
+<br>Senior Program Manager - Microsoft
+<br>@shankuehn
+<br>https://www.linkedin.com/in/shannonkuehn/
+<br><br>
 Christos Matskas
-Senior Program Manager - Microsoft
-@ChristosMatskas
-https://www.linkedin.com/in/christosmatskas/
+<br>Senior Program Manager - Microsoft
+<br>@ChristosMatskas
+<br>https://www.linkedin.com/in/christosmatskas/
