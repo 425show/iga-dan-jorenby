@@ -14,16 +14,16 @@
 - Video 5 - 
 - Video 6 - 
 
-<u>Contact</u>
+<u>Contact:</u>
 <br>425Show@microsoft.com
 <br>https://425show.com
 <br><br>
-Guest:
+***Guest***
 <br>Dan Jorenby
 <br>Area Solution Architect - Microsoft
 <br>[LinkedIn](https://www.linkedin.com/in/dan-jorenby-6023b88/)
 <br><br>
-Hosts:
+***Hosts***
 <br>Shannon Kuehn
 <br>Senior Program Manager - Microsoft
 <br>[@shankuehn](https://twitter.com/shankuehn)
