@@ -1,4 +1,5 @@
-# Identity Governance Administration (IGA) - End-to-End Customer Technical Demonstration Using Automation Tooling in Azure
+# Identity Governance
+## End-to-End Customer Technical Demonstration Using Automation Tooling in Azure
 High level overview:
 - Supplemental code for the 6 part video series on how to automate Identity Governance within Azure Active Directory using PowerShell, Azure Automation, Hybrid Runbook Workers, and Logic Apps. Special guest: Dan Jorenby from Microsoft.
 
