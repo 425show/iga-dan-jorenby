@@ -21,15 +21,15 @@ Contact:
 Guest:
 <br>Dan Jorenby
 <br>Area Solution Architect - Microsoft
-<br>https://www.linkedin.com/in/dan-jorenby-6023b88/
+<br>[LinkedIn](https://www.linkedin.com/in/dan-jorenby-6023b88/)
 <br><br>
 Hosts:
 <br>Shannon Kuehn
 <br>Senior Program Manager - Microsoft
-<br>@shankuehn
-<br>https://www.linkedin.com/in/shannonkuehn/
+<br>[@shankuehn](https://twitter.com/shankuehn)
+<br>[LinkedIn](https://www.linkedin.com/in/shannonkuehn/)
 <br><br>
 Christos Matskas
 <br>Senior Program Manager - Microsoft
-<br>@ChristosMatskas
-<br>https://www.linkedin.com/in/christosmatskas/
+<br>[@ChristosMatskas](https://twitter.com/ChristosMatskas)
+<br>[LinkedIn](https://www.linkedin.com/in/christosmatskas/)
