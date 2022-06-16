@@ -8,7 +8,7 @@
 
 ***Videos***:
 - Video 1 - https://youtu.be/-CWUlocniP0
-- Video 2 - 
+- Video 2 - https://youtu.be/hkyBhghRdv4
 - Video 3 - 
 - Video 4 - 
 - Video 5 - 
