@@ -10,9 +10,9 @@
 - Video 1 - https://youtu.be/-CWUlocniP0
 - Video 2 - https://youtu.be/hkyBhghRdv4
 - Video 3 - https://youtu.be/1i3OYrSMqvo
-- Video 4 - 
-- Video 5 - 
-- Video 6 - 
+- Video 4 - https://youtu.be/aw4-mZS6JOI
+- Video 5 - https://youtu.be/ZBBDKP-KHzg
+- Video 6 - https://youtu.be/j0_B5rqF7PI
 
 ***Contact***:
 <br>425Show@microsoft.com
