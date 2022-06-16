@@ -7,7 +7,7 @@
 - 425Show, pre-recorded YouTube
 
 ***Videos***:
-- Video 1 - 
+- Video 1 - https://youtu.be/-CWUlocniP0
 - Video 2 - 
 - Video 3 - 
 - Video 4 - 
