@@ -15,7 +15,7 @@
 - Video 6 - https://youtu.be/j0_B5rqF7PI
 
 **Documentation**:
-Recommended PowerShell modules to use: https://docs.microsoft.com/en-us/powershell/microsoftgraph/tutorial-entitlement-management?view=graph-powershell-1.0
+<br><br>[Recommended PowerShell modules to use](https://docs.microsoft.com/en-us/powershell/microsoftgraph/tutorial-entitlement-management?view=graph-powershell-1.0)
 <br><br>
 ***Contact***:
 <br>425Show@microsoft.com
